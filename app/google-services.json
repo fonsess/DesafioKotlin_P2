@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402865732578",
+    "project_id": "desafiokotlin-65c0e",
+    "storage_bucket": "desafiokotlin-65c0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402865732578:android:49f52986a621430f7b17bb",
+        "android_client_info": {
+          "package_name": "br.unisanta.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUncCndHoS9j80HNGKIkhq1EZaumc0Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

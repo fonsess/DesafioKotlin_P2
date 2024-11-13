@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Spinner
+        android:id="@+id/spinnerComida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Selecionar Comida"
+        android:minHeight="48dp" />
+
+    <Spinner
+        android:id="@+id/spinnerBebida"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Selecionar Bebida"
+        android:minHeight="48dp" />
+</LinearLayout>
